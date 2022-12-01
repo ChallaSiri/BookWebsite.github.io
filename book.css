@@ -1,0 +1,54 @@
+.bgimg{
+    background-image:url("https://images.unsplash.com/photo-1477346611705-65d1883cee1e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    background-size: cover;
+    width:100%;
+    height:100vh;
+}
+
+.rrr{
+    background-color: white;
+}
+.firsthead{
+    font-size: 60px;
+    font-family: sans-serif;
+    color: white;
+}
+.navbar-brand img{
+    width:100px;
+}
+.navbar-nav{
+    align-items: center;
+}
+.container{
+    padding-top: 20px;
+    
+}
+
+.row{
+    margin-top:50px
+}
+
+.card-body:hover{
+    background-color:#dbd5d6;
+    
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+    
+    
+}
+
+
+.card{
+    border-radius: 1rem;
+    border:1px solid transparent;
+   
+    backdrop-filter:blur(1rem);
+    box-shadow:1.3rem 1.3rem 1.3rem rgba(0,0,0,0.5);
+    margin-top:60px;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+    padding: 25pxpx 80px 18px 36px;
+
+    cursor: pointer;
+}
+

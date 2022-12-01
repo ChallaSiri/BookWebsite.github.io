@@ -1,0 +1,25 @@
+.bgimg{
+    background-image: url(https://as2.ftcdn.net/v2/jpg/02/50/67/35/1000_F_250673585_Mk2lRzqpvetLwV9LUPGq9dhbu1iNuVZ6.jpg);
+    height:120vh;
+    background-size: cover;
+}
+.bookhead{
+    color:black;
+    font-size: bold 35px;
+
+}
+.bookcard{
+    background-color:burlywood ;
+    border-radius:5px 10px;
+    padding:10px;
+    margin:15px;
+}
+.linehead{
+    color:#041836;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30px;
+    font-weight:bold;
+}
+.bookpara{
+    
+}
